@@ -97,6 +97,15 @@ hr{
     padding: 0px 20px;
 }
 
+.img-description a{
+    color:#00001a;
+    font-weight: 900;
+}
+
+.img-description a:hover{
+    color: #f15e50;
+}
+
 /* Button */
 .btn {
     -webkit-border-radius: 0;
